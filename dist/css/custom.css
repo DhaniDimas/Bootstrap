@@ -1,0 +1,17 @@
+/* Hero Section Start*/
+.jumbotron h1 {
+  padding-top: 10%;
+  margin-left: 0.5%;
+  font-size: 40px;
+}
+.jumbotron p {
+  font-size: 25px;
+  margin-left: 0.5%;
+}
+.jumbotron img {
+  padding-top: 10%;
+  margin-left: 11%;
+  width: 80%;
+}
+
+/* Hero Section End*/
